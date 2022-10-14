@@ -1,2 +1,4 @@
 # Stock-Journal
-Created a journal for my stocks to analyze all the trades I've made through Webull and to practice my Python data analysis skills.
+This is a journal of all my stock/option trades I've made through Webull and an analysis of the trades in order to practice my Python data analysis skills.
+
+You may open it the Jupyter Notebook in Google Colab by clicking on the link on the Python file page here.
